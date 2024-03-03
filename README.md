@@ -15,4 +15,3 @@
   <img src="https://github.com/Halfmedia/Halfmedia/assets/74425304/331dae7d-ed69-49cf-a76f-22b4dd6cc131" alt="Picture of my cat facing right" width="191" height="150"/>
 </p>
 
-<hr>
