@@ -1,5 +1,5 @@
 <p align="center">
-  <b style="font-family: 'Times New Roman', Times, serif;">The quick brown fox jumps over the lazy dog.</b>
+  <b><font face="Times New Roman">The quick brown fox jumps over the lazy dog.</font></b>
 </p>
 
 <p align="center">
