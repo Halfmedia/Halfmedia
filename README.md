@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://github.com/Halfmedia/Halfmedia/assets/74425304/2a7e7337-f475-497f-822d-be4750dd376e" alt="Halfmedia" width="947" height="300"/>
+  <img src="https://github.com/Halfmedia/Halfmedia/assets/74425304/2aea4e32-0223-4c05-8fb3-4fafa5e4cd74" alt="Halfmedia" width="969" height="200"/>
 </p>
 
 <hr>
