@@ -1,6 +1,6 @@
-<p align="center">
-  <b><font face="Comic Sans MS">The quick brown fox jumps over the lazy dog.</font></b>
-</p>
+<h1 align="center">
+  <b>The quick brown fox jumps over the lazy dog.</b>
+</h1>
 
 <p align="center">
  
